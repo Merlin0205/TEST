@@ -1,6 +1,4 @@
-Here is the converted content of the Jupyter notebook `FINAL_TESTY_LEDEN.ipynb` into a Python script with all markdown texts preserved as comments:
 
-```python
 # Customer Segmentation for a Clothing Company
 
 # Objective
